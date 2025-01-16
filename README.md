@@ -45,7 +45,7 @@ To start using the bot, follow these steps:
     npm start
     ```
 
-## Core Logic
+## Code Snippet
 
 Here is a brief overview of the core logic implemented in the bot:
 
